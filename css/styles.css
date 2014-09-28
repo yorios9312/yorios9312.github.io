@@ -1,0 +1,336 @@
+* {
+	margin: 0; padding: 0; outline: 0;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+	color: #e5e5e5;
+	font-size: 12px;
+	background: #bfbfbf;
+}
+
+h1, h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	margin: 0 0 15px 0;
+}
+
+h1 {
+	font-size: 36px;
+	line-height: 100%;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+p {
+	margin: 0 0 15px 0;
+}
+
+a {
+	color: #3e3e3e;
+}
+
+/* Main Screen Content */
+
+.clear {
+	clear: both;
+}
+
+.wrap {
+	width: 100%;
+	/*max-width: 1600px;
+	min-width: 960px;*/
+	z-index: 10;
+	position: relative;
+	margin: 0 auto;
+	padding: 0;
+}
+
+.section {
+	/*max-width: 1600px;
+	min-width: 960px;
+	min-height: 350px;*/
+	z-index: 10;
+	position: relative;
+	margin: 0 auto;
+	padding: 0 0 20px 0;
+}
+
+.inner {
+	/*width: 960px;*/
+	margin: 0 auto;
+	position: relative;
+	/*min-height: 50px;*/
+	padding: 10% 10%;
+	font-size: 18px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 200;
+}
+
+.back .inner h4 {
+	color: white;
+	font-weight: 400;
+	font-size: 140%;
+	text-align: justify;
+	text-shadow: 3px 2px 8px #000000;
+}
+
+.title {
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.subtitle {
+	font-family: 'Raleway', sans-serif;
+	font-weight: 200;
+}
+
+.inner:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.navMenu {
+	overflow: auto;
+	height: 50px;
+	z-index: 1000;
+	width: 100%;
+	background: #074797;
+}
+
+.navMenu .inner {
+	padding: 0;
+	font-weight: 400;
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+}
+
+.navLink {
+	display: inline-block;
+	height: 35px;
+	width: 10%;
+	margin: 0px -5px 0 0;
+	text-decoration: none;
+	font-size: 16px;
+	padding: 15px 2% 0 2%;
+	text-align: center;
+	color: #fff;
+}
+
+.navMenu a:hover {
+	background: #0959bc;
+}
+
+.active {
+	background: #0b6be1;
+}
+
+.end {
+	margin: 0;
+}
+
+/* Section content */
+.topMenu {
+	text-align: center;
+	min-height: 130px;
+	/*Background image from subtlepatterns.com*/
+	background-image: url('../images/background.png');
+	font-family: 'Raleway', sans-serif;
+	color: white;
+	padding: 20px 10px;
+	margin: 0 auto;
+}
+
+.circle {
+	height: 26%;
+	width: 26%;
+}
+
+.back {
+	/*Justin Swan's picture from Flickr with a license that allows me
+	to use it as long as I provide the link.
+	Link: https://www.flickr.com/photos/41099823@N00/364374832/in/photolist-ngHjmx-ycvWG-4hAuHP-dXKVG4-d7xB2N-9mitrb-5SPkfz-adVeRT-ajBuV9-e447nf-f3DJp3-eLAeWD-eRrohk-aU4BpR-jcMvLB-9sKLMP-bF2GAe-bs7Jxq-ekHZUE-551QB2-buoUSY-bLgdxM-eJ1qGp-6abFe1-eMqiWY-924ZAU-9peFE7-f3puq8-f8USr4-ersRMm-fAFeES-9pJYGe-4xacTA-eC11sw-7LRvrZ-com22L-f1ugN5-94UXXp-ersUtL-42xcXr-ho9M3c-5SPNZH-9sNL5J-55N1QS-8EGNmr-9sKJXD-8kCH1Q-4f8jL6-d5reME-fe9gk6/;*/
+	background-image: url('../images/col.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.back .inner {
+	background-size: 100% 100%;
+	width: 75%;
+}
+
+.port {
+	background-color: white;
+	background-size: 100% 100%;
+	text-align: center;
+	color: black;
+	font-family: 'Raleway', sans-serif;
+}
+
+.port .inner {
+	padding: 5% 10%;
+	width: 50%;
+	text-align: center;
+}
+
+.port .inner h1 {
+	color: black;
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+}
+
+.port .inner h2 {
+	color: black;
+	font-family: 'Raleway', sans-serif;
+}
+
+.port .inner .portdes h4 {
+	color: black;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	font-weight: 400;
+	color: black;
+	text-align: justify;
+}
+
+.app {
+	text-align: center;
+}
+
+.cont {
+	/* Again, same background image from www.subtlepatterns.com*/
+	background-image: url('../images/background.png');
+	text-align: center;
+}
+
+.cont .inner {
+	padding: 5% 10%;
+	width: 50%;
+}
+
+.cont .inner h1, h2, form {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+}
+
+.cont .inner h1 {
+	font-weight: bold;
+}
+
+#compose {
+	padding-top: 15px;
+	text-align: center;
+	height: 30%;
+	width: 30%;
+}
+
+/* All icons are from http://ctrla.lt/social-media-buttons-black-moder/*/
+.icon {
+	display: inline-block;
+	margin-top: 5%;
+	margin-bottom: 3%;
+}
+
+.icon a:hover {
+	background: #0b6be1;
+}
+
+#contact-form {
+	padding-top: 8px;
+	text-align: center;
+}
+
+#contact-form form {
+	color: black;
+}
+
+#contact-form form textarea { 
+	height: 200px;
+} 
+
+/* More form styling */
+form {
+	line-height: 2.0em;
+}
+
+label {
+	font-family: 'Raleway', sans-serif;
+	display: none;
+	text-align: right;
+	width: 70px;
+}
+
+input[type="email"],input[type="text"],textarea, input[type="username"], input[type="password"] {
+	font-family: 'Raleway', sans-serif;
+	margin-left: 5%;
+	line-height: 2.0em;
+	margin-top: 3%;
+	width: 90%;
+	font-size: 70%;
+}
+
+input[type="submit"] {
+	font-family: 'Raleway', sans-serif;
+	margin-left: 5%;
+	line-height: 2.0em;
+	width: 90%;
+	font-size: 95%;
+}
+
+#submit {
+	font-family: 'Raleway', sans-serif;
+	text-align: center; 
+	padding: 9px 15px; 
+	background: #074797; 
+	border: 0; 
+	font-size: 14px; 
+	color: #FFFFFF; 
+}
+
+#submit:hover {
+    background: #0b6be1;
+}
+
+textarea:focus, input[type="text"]:focus, input[type="email"]:focus {
+	border: 2px solid #01A0E4;
+}
+
+.error p {
+	font-family: 'Raleway', sans-serif;
+	color: #b20000;
+	font-size: 105%;
+}
+
+.error {
+	font-family: 'Raleway', sans-serif;
+	color: #b20000;
+}
+
+.success {
+	font-family: 'Raleway', sans-serif;
+	color: #0b6be1;
+	width: 80%;
+	margin: 0 auto;
+}
+
+/*Footer!*/
+footer {
+	clear: both;
+	color: #FFFFFF;
+	/*Campus pano from Dean Krafft on Pixlr (Creative Commons)*/
+	background-image: url('../images/footimg.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	text-align: center;
+	padding: 100px;
+	text-shadow: 3px 2px 8px #000000;
+	font-size: 170%;
+	border-top: 2px solid #ddd;
+}

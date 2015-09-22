@@ -45,7 +45,7 @@ body {
 	background-color: black;
 	width: 100%;
 	text-align: center;
-	font-size: 1.5em;
+	font-size: 1.2em;
 	padding-top: 1%;
 	padding-bottom: 1%;
 	opacity: 0.95;
@@ -83,12 +83,33 @@ body {
 h2 { 
 	padding-top: 10%;
 	text-align: center;
-	font-size: 3.5em;
+	font-size: 2em;
 }
 
 h3 {
-	text-align: center;
-	font-size: 1.25em
+  text-align: center;
+  font-size: 1em;
+}
+
+.skills h1 {
+  text-align: center;
+  font-size: 1em;
+}
+
+@media (min-width:481px) { 
+  h2 {
+    font-size: 3.5em;
+  }
+  h3 {
+    font-size: 1.25em;
+  }
+  .navbar {
+    font-size: 1.5em;
+  }
+  .skills h1 {
+    text-align: center;
+    font-size: 2em;
+  }
 }
 
 h4 {
@@ -105,10 +126,6 @@ h4 {
 
 .skills a {
   text-decoration: none;
-}
-
-.skills h1 {
-  text-align: center;
 }
 
 .contactdiv {

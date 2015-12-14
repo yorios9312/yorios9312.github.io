@@ -96,6 +96,11 @@ h3 {
   font-size: 1em;
 }
 
+#sectionHeading {
+  text-align: center;
+  font-size: 3em;
+}
+
 @media (min-width:481px) { 
   h2 {
     font-size: 3.5em;
@@ -120,7 +125,7 @@ h4 {
 	margin-top: 10%;
   padding-top: 5%;
 	background-color: white;
-  min-height: 500px;
+  min-height: 650px;
   color: black;
 }
 
@@ -137,9 +142,27 @@ h4 {
   color: black;  
 }
 
+#about {
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
 #me {
 	height: 25%;
 	width: 25%;
+}
+
+#me2 {
+  height: 35%;
+  width: 35%;
+  float: left;
+}
+
+#aboutme {
+  padding-top: 3%;
+  font-size: 1.15em;
+  text-align: justify;
 }
 
 #envelope:hover {

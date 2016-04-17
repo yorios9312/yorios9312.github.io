@@ -159,6 +159,11 @@ h4 {
   float: left;
 }
 
+#me3 {
+  height: 35%;
+  width: 35%;
+}
+
 #aboutme {
   padding-top: 3%;
   font-size: 1.15em;

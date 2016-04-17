@@ -5,7 +5,10 @@ body {
   -o-background-size: cover;
   background-size: cover;
   color: white;
-  font-family: 'Raleway', sans-serif;
+  /*font-family: 'Raleway', sans-serif;*/
+  /*font-family: 'Catamaran', sans-serif;*/
+  /*font-family: 'Sarala', sans-serif;*/
+  font-family: 'Hind Vadodara', sans-serif;
 }
 
 .port {
@@ -84,6 +87,7 @@ h2 {
 	padding-top: 10%;
 	text-align: center;
 	font-size: 2em;
+  font-weight: 400;
 }
 
 h3 {

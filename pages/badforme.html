@@ -89,9 +89,10 @@
 					var output;
 					if (search.length != "") { 
 						$.each(fodmap, function(key, val) {
+							document.getElementById('food').style.fontSize = "200%";
+							document.getElementById('verdict').style.fontSize = "200%";
 							if((val.status.search(regex) != -1) || (val.name.search(regex) != -1 )) { 
-								document.getElementById('food').style.fontSize = "200%";
-								document.getElementById('verdict').style.fontSize = "200%";
+								
 								output += "<tr>";
 								output += "<td id='" + key + " '>" + val.name + "</td>";
 								if(val.status == "Yes, sorry") {
@@ -104,7 +105,7 @@
 							}
 						});
 						$('tbody').html(output);
-						// document.getElementById('bod').style.fontSize = "175%";
+						document.getElementById('bod').style.fontSize = "175%";
 					}
 					else {
 						$('table').attr('id', 'hide');

@@ -83,7 +83,7 @@
 				if($('table').attr('id') == 'hide') {
 					document.getElementById('hide').setAttribute('id', 'show');
 				}
-				$.getJSON("fodmap.json", function(fodmap) {
+				$.getJSON("../data/fodmap.json", function(fodmap) {
 					var search = $('#searchterm').val();
 					var regex = new RegExp(search, 'i');
 					var output;

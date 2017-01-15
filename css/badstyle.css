@@ -30,10 +30,6 @@ h1, h5, .header {
   margin-top: 5%;
 }
 
-#searchterm {
-  font-size: 1em;
-}
-
 #hide {
   table-layout: fixed;  
   display: none;
@@ -67,7 +63,7 @@ th {
   display:flex;
   position:relative;
   margin:5em auto;
-  width:70%;
+  width:80%;
   flex-direction:row;
   box-shadow:
    1px 1px 0 grey,

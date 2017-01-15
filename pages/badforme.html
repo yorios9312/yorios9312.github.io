@@ -11,7 +11,7 @@
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-   	<p class="header">Will This Food Hurt My Stomach?</p>
+   	<p class="header" id="headerr">Will This Food Hurt My Stomach?</p>
 
 	<div class = "container">
 	   	<div class="field" id="searchform">
@@ -21,56 +21,110 @@
 		<table class = "table table-bordered table-hover table-responsive" id = "hide">
 			<thead>
 				<tr>
-					<th class="col-xs-3">Name</th>
-					<th class="col-xs-3">Verdict</th>
-					<th class="col-xs-3">Category</th>	
-					<th class="col-xs-3">Note</th>
+					<th class="col-xs-3" id="food">Name</th>
+					<th class="col-xs-3" id="verdict">Verdict</th>
+					<th class="col-xs-3" id="category">Category</th>	
+					<th class="col-xs-3" id="note">Note</th>
 				</tr>
 			</thead>
-			<tbody>
+			<tbody id="bod">
 				
 			</tbody>
 		</table>
 	</div>
 
 	<script>
-		$('#searchterm').keydown(function() {
-			if($('table').attr('id') == 'hide') {
-				document.getElementById('hide').setAttribute('id', 'show');
-			}
-			$.getJSON("../data/fodmap.json", function(fodmap) {
-				var search = $('#searchterm').val();
-				var regex = new RegExp(search, 'i');
-				var output;
-				if (search.length != "") { 
-					$.each(fodmap, function(key, val) {
-						if((val.category.search(regex) != -1) || (val.name.search(regex) != -1 )) { 
-							output += "<tr>";
-							output += "<td id='" + key + " '>" + val.name + "</td>";
-							if(val.status == "Yes, sorry") {
-								output += "<td class='bad' id='" + key + " '>" + val.status + "</td>";
-							}
-							else {
-								output += "<td class='good' id='" + key + " '>" + val.status + "</td>";
-							}						
-							output += "<td id='" + key + " '>" + val.category + "</td>";
-							output += "<td id='" + key + " '>" + val.note + "</td>";
-							output += "</tr>";
-						}
-					});
-					$('tbody').html(output);
-				}
-				else {
-					$('table').attr('id', 'hide');
-				}
+		var isMobile = navigator.userAgent.match(/Mobile/i) != null;
 
-			});
-		})
+		if (isMobile == false) {
+			$('#searchterm').keydown(function() {
+				if($('table').attr('id') == 'hide') {
+					document.getElementById('hide').setAttribute('id', 'show');
+				}
+				$.getJSON("../data/fodmap.json", function(fodmap) {
+					var search = $('#searchterm').val();
+					var regex = new RegExp(search, 'i');
+					var output;
+					if (search.length != "") { 
+						$.each(fodmap, function(key, val) {
+							if((val.category.search(regex) != -1) || (val.name.search(regex) != -1 )) { 
+								output += "<tr>";
+								output += "<td id='" + key + " '>" + val.name + "</td>";
+								if(val.status == "Yes, sorry") {
+									output += "<td class='bad' id='" + key + " '>" + val.status + "</td>";
+								}
+								else {
+									output += "<td class='good' id='" + key + " '>" + val.status + "</td>";
+								}						
+								output += "<td id='" + key + " '>" + val.category + "</td>";
+								output += "<td id='" + key + " '>" + val.note + "</td>";
+								output += "</tr>";
+							}
+						});
+						$('tbody').html(output);
+					}
+					else {
+						$('table').attr('id', 'hide');
+					}
+
+				});
+			})
+		}
+
+		else {
+			document.getElementById('category').remove();
+			document.getElementById('note').remove();
+			document.getElementById('food').setAttribute('class', 'col-lg-4');
+			document.getElementById('verdict').setAttribute('class', 'col-lg-4');
+			document.getElementById('headerr').style.fontSize = "500%";
+			document.getElementById('searchterm').style.fontSize = "200%";
+			document.getElementById('searchform').style.width = "100%";
+			$('#searchterm').keydown(function() {
+				if($('table').attr('id') == 'hide') {
+					document.getElementById('hide').setAttribute('id', 'show');
+				}
+				$.getJSON("fodmap.json", function(fodmap) {
+					var search = $('#searchterm').val();
+					var regex = new RegExp(search, 'i');
+					var output;
+					if (search.length != "") { 
+						$.each(fodmap, function(key, val) {
+							if((val.status.search(regex) != -1) || (val.name.search(regex) != -1 )) { 
+								document.getElementById('food').style.fontSize = "200%";
+								document.getElementById('verdict').style.fontSize = "200%";
+								output += "<tr>";
+								output += "<td id='" + key + " '>" + val.name + "</td>";
+								if(val.status == "Yes, sorry") {
+									output += "<td class='bad' id='" + key + " '>" + val.status + "</td>";
+								}
+								else {
+									output += "<td class='good' id='" + key + " '>" + val.status + "</td>";
+								}					
+								output += "</tr>";
+							}
+						});
+						$('tbody').html(output);
+						document.getElementById('bod').style.fontSize = "175%";
+					}
+					else {
+						$('table').attr('id', 'hide');
+					}
+
+				});
+			})
+		}
+
 	</script>
 
-   	<footer>
-   		<h5>Made by Manuela Rios</h5>
+   	<footer id="footie">
+   		<script>
+   			if(navigator.userAgent.match(/Mobile/i) != null) {
+   				document.getElementById("footie").remove();
+   			}
+   		</script>
+   		<h5>Made by Manuela Rios - 2016</h5>
    	</footer>
+
 
 	</body>
 </html>

@@ -1,0 +1,2678 @@
+[  
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Garlic",
+      "note":"Avoid entirely if possible"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Onions",
+      "note":"Avoid entirely if possible"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Artichoke",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Asparagus",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Baked beans",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Beetroot",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Black beans",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Black eyed peas",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Broad beans",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Butter beans",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Cassava",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Cauliflower",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Celery",
+      "note":"Greater than 5cm of stalk"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Cho cho",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Choko",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Falafel",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Haricot beans",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Kidney beans",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Lima beans",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Leek bulb",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Mange Tout",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Mushrooms",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Peas, snow and sugar snap",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Red kidney beans",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Savoy Cabbage",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Soy beans / soya beans",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Split peas",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Scallions / spring onions",
+      "note":"Bulb / white part"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Shallots",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Yes, sorry",
+      "name":"Taro",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Alfalfa",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Bamboo shoots",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Bean sprouts",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Bok choy / pak choi",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Broccoli",
+      "note":"1/2 cup"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Brussel sprouts",
+      "note":"1 serving of 2 sprouts"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Butternut squash",
+      "note":"1/4 cup"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Cabbage, common and red",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Callaloo",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Carrots",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Celeriac",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Celery",
+      "note":"Less than 5cm of stalk"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Chicory leaves",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Chick peas",
+      "note":"1/4 cup"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Chilli",
+      "note":"If tolerable"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Chives",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Choy sum",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Collard greens",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Corn / sweet corn",
+      "note":"If tolerable and only in small amounts – 1/2 cob"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Courgette",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Cucumber",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Eggplant / aubergine",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Fennel",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Green beans",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Green pepper / green bell pepper / green capsicum",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Ginger",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Kale",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Leek leaves",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Lentils",
+      "note":"In small amounts"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Lettuce: butter, iceberg, radicchio, red coral, rocket",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Marrow",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Okra",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Olives",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Parsnip",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Potato",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Pumpkin",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Pumpkin, canned",
+      "note":"1/4 cup, 2.2 oz"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Radish",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Red peppers / red bell pepper / red capsicum",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Scallions / spring onions (green part)",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Seaweed / nori",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Silverbeet / chard",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Spaghetti squash",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Spinach, baby",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Squash",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Sun-dried tomatoes",
+      "note":"4 pieces"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Swede",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Swiss chard",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Sweet potato",
+      "note":"1/2 cup"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Tomato – canned, cherry, common, roma",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Turnip",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Water chestnuts",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Yam",
+      "note":"None"
+   },
+   {  
+      "category":"Vegetables and Legumes",
+      "status":"Nope, you're good!",
+      "name":"Zucchini",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Apples",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Apricots",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Avocado",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Blackberries",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Boysenberry",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Cherries",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Currants",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Custard apple",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Dates",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Feijoa",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Figs",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Goji berries",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Grapefruit",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Lychee",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Mango",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Nectarines",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Paw paw, dried",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Peaches",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Pears",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Persimmon",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Pineapple, dried",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Plums",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Pomegranate",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Prunes",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Raisins",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Sultanas",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Tamarillo",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Tinned fruit in apple / pear juice",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Yes, sorry",
+      "name":"Watermelon",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Ackee",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Bananas",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Blueberries",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Breadfruit",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Carambola",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Cantaloupe",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Cranberry",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Clementine",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Dragon fruit",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Grapes",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Honeydew and Galia melons",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Kiwifruit",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Lemon including lemon juice",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Lime including lime juice",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Mandarin",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Orange",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Passion fruit",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Paw paw",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Papaya",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Pineapple",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Raspberry",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Rhubarb",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Strawberry",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Tamarind",
+      "note":"None"
+   },
+   {  
+      "category":"Fruit",
+      "status":"Nope, you're good!",
+      "name":"Tangelo",
+      "note":"None"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Yes, sorry",
+      "name":"Chorizo",
+      "note":"None"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Yes, sorry",
+      "name":"Sausages",
+      "note":"None"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Yes, sorry",
+      "name":"Processed meat",
+      "note":"Check ingredients"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Nope, you're good!",
+      "name":"Beef",
+      "note":"None"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Nope, you're good!",
+      "name":"Chicken",
+      "note":"None"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Nope, you're good!",
+      "name":"Kangaroo",
+      "note":"None"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Nope, you're good!",
+      "name":"Lamb",
+      "note":"None"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Nope, you're good!",
+      "name":"Pork",
+      "note":"None"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Nope, you're good!",
+      "name":"Prosciutto",
+      "note":"None"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Nope, you're good!",
+      "name":"Quorn, mince",
+      "note":"None"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Nope, you're good!",
+      "name":"Turkey",
+      "note":"None"
+   },
+   {  
+      "category":"Meats, Poultry and Meat Substitutes",
+      "status":"Nope, you're good!",
+      "name":"Cold cuts / deli meat / cold meats such as ham and turkey breast",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Canned tuna",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Fresh fish",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Cod",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Haddock",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Plaice",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Salmon",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Trout",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Tuna",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Seafod",
+      "note":"Ensuring nothing else is added"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Crab",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Lobser",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Mussels",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Oysters",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Prawns",
+      "note":"None"
+   },
+   {  
+      "category":"Fish and Seafood",
+      "status":"Nope, you're good!",
+      "name":"Shrimp",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Biscuits",
+      "note":"Including chocolate chip biscuits"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Bread, wheat",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Breadcrumbs",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Cakes",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Cereal bar, wheat based",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Croissants",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Crumpets",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Egg noodles",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Muffins",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Pastries",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Pasta made from wheat",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Udon noodles",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Wheat bran",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Wheat cereals",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Wheat flour",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Wheat noodles",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Wheat rolls",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Wheatgerm",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Almond meal",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Amaranth flour",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Barley including flour",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Bran cereals",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Bread, multigrain",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Bread, naan, roti",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Bread, oatmeal",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Bread, pumpernickel",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Bread, sourdough with kamut",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Cashews",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Cereal",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Cous cous",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Einkorn flour",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Freekeh",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Gnocchi",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Granola bar",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Muesli cereal",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Muesli bar",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Pistachios",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Rye",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Rye crispbread",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Semolina",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Yes, sorry",
+      "name":"Spelt flour",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Cornflakes",
+      "note":"1/2 cup"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Coconut",
+      "note":"Milk, cream, flesh"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Corn tortillas, 3 tortillas",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Crackers, plain",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Hazelnuts – max of 15",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Macadamia nuts",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Millet",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Mixed nuts",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Oatmeal",
+      "note":"1/2 cup"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Oats",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Oatcakes",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Peanuts",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Pecans",
+      "note":"Max of 15"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Pine nuts",
+      "note":"Max of 15"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Polenta",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Popcorn",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Porridge and oat based cereals",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Potato flour",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Pretzels",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Quinoa",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Rice, basmati",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Rice, brown",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Rice, white",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Rice bran",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Rice cakes",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Rice crackers",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Rice flakes",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Rice flour",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Rice Krispies",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Rice noodles",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Seeds, chia",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Seeds, egusi",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Seeds, poppy",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Seeds, pumpkin",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Seeds, sesame",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Seeds, sunflower",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Sourdough",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Starch, maize, potato and tapioca",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Sorghum",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Tortilla chips / corn chips",
+      "note":"None"
+   },
+   {  
+      "category":"Cereals, Grains, Breads, Biscuits, Pasta, Nuts and Cakes",
+      "status":"Nope, you're good!",
+      "name":"Walnuts",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Agave",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Caviar dip",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Fructose",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Fruit bar",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Gravy, if it contains onion",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"High fructose corn syrup (HFCS)",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Hummus / houmous",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Honey",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Jam, mixed berries",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Jam, strawberry, if contains HFCS",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Pesto sauce",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Quince paste",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Relish / vegetable pickle",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Stock cubes",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Sugar free sweets containing polyols",
+      "note":"Usually ending in -ol or isomalt"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Inulin",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Isomalt",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Maltitol",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Mannitol",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Sorbitol",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Xylitol",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Tahini paste",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Yes, sorry",
+      "name":"Tzatziki dip",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Aspartame",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Acesulfame K",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Barbecue sauce",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Capers in vinegar",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Capers, salted",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Chocolate, dark",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Chocolate, milk",
+      "note":"3 squares"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Chocolate, white",
+      "note":"3 squares"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Chutney, 1 tablespoon",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Fish sauce",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Garlic infused oil",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Golden syrup",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Glucose",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Jam / jelly, strawberry",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Ketchup (USA) – 1 sachet",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Maple syrup",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Marmalade",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Mayonnaise",
+      "note":"Ensuring no garlic or onion in ingredients"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Miso paste",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Mustard",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Oyster sauce",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Pesto sauce",
+      "note":"Less than 1 tbsp"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Peanut butter",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Rice malt syrup",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Saccharine",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Shrimp paste",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Soy sauce",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Stevia",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Sweet and sour sauce",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Sucralose",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Sugar",
+      "note":"Also called sucrose"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Tamarind paste",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Tomato sauce (outside USA)",
+      "note":"2 sachets, 13g"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Vegemite",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Vinegar, balsamic",
+      "note":"Less than 2 tbsp"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Vinegar, rice wine",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Wasabi",
+      "note":"None"
+   },
+   {  
+      "category":"Condiments, Dips, Sweets, Sweeteners and Spreads",
+      "status":"Nope, you're good!",
+      "name":"Worcestershire sauce",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Beer",
+      "note":"Only if drinking more than one bottle"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Coconut water",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Cordial, apple and raspberry with 50-100% real juice",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Cordial, orange with 25-50% real juice",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Dandelion tea",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Fruit and herbal teas with apple added",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Fruit juices in large quantities",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Fruit juices made of apple, pear, mango",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Orange juice in quantities over 100ml",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Rum",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Sodas containing High Fructose Corn Syrup (HFCS)",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Soy milk made with soy beans",
+      "note":"Commonly found in USA"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Sports drinks",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Tea, black with added soy milk",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Tea, chai, strong",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Tea, dandelion, strong",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Tea, fennel",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Tea, chamomile",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Tea, herbal, strong",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Tea, oolong",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Yes, sorry",
+      "name":"Wine",
+      "note":"Only if drinking more than one glass"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Clear spirits such as Vodka",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Gin",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Whiskey",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Wine",
+      "note":"Limited to one drink"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Coffee, black",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Coffee, instant",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Espresso",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Decaffeinated Coffee",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Drinking chocolate powder",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Fruit juice",
+      "note":"125ml and safe fruits only"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Lemonade",
+      "note":"In low quantities"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Malted chocolate powder",
+      "note":"Milo, Horlicks – 3 tsp"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Protein supplement",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Soya milk made with soy protein",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Sugar free fizzy drinks, soft drinks, soda",
+      "note":"That do no contain HFCS such as lemonade or cola"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Tea, black, weak",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Tea, chai, weak",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Tea, fruit and herbal, weak",
+      "note":"Ensure no apple added"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Tea, green",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Tea, peppermint",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Tea, white",
+      "note":"None"
+   },
+   {  
+      "category":"Drinks",
+      "status":"Nope, you're good!",
+      "name":"Water",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Buttermilk",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Cheese, cream",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Cheese, Halmoumi",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Cheese, ricotta",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Cream",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Custard",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Gelato",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Ice cream",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Kefir",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Milk",
+      "note":"Cow, goat and sheep"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Milk, evaporated",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Milk, rice",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Sour cream",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Yes, sorry",
+      "name":"Yogurt",
+      "note":"Including greek yogurt"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Butter",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Cheese, brie",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Cheese, camembert",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Cheese, cheddar",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Cheese, cottage",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Cheese, feta",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Cheese, goat / chevre",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Cheese, mozzarella",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Cheese, ricotta",
+      "note":"2 tablespoons"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Cheese, swiss",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Dairy free chocolate pudding",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Eggs",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Margarine",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Milk, almond",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Milk, hemp",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Milk, lactose free",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Milk, oat",
+      "note":"30 ml, enough for cereal"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Parmesan cheese",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Sorbet",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Soy protein",
+      "note":"Avoid soya beans"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Swiss cheese",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Tempeh",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Tofu",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Whipped cream",
+      "note":"None"
+   },
+   {  
+      "category":"Dairy Foods and Eggs",
+      "status":"Nope, you're good!",
+      "name":"Yoghurt, lactose free",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Yes, sorry",
+      "name":"Carob powder",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Basil",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Cilantro",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Coriander",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Curry leaves",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Fenugreek",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Gotukala",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Lemongrass",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Mint",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Oregano",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Pandan",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Parsley",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Rampa",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Rosemary",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Tarragon",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Thyme",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"All spice",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Black pepper",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Cardamon",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Chilli powder",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Cinnamon",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Cloves",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Cumin",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Curry powder",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Fennel seeds",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Five spice",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Goraka",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Mustard seeds",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Nutmeg",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Paprika",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Saffron",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Star anise",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Turmeric",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"avocado oil",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"canola oil",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"coconut oil",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"olive oil",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"peanut oil",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"rice bran oil",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"sesame oil",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"sunflower oil",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"vegetable oil",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Asafoetida powder",
+      "note":"Great onion substitute"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Baking powder",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Baking soda",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Cacao powder",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Cocoa powder",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Cream",
+      "note":"1/2 cup"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Gelatine",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Ghee",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Icing sugar",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Lard",
+      "note":"None"
+   },
+   {  
+      "category":"Cooking ingredients, Herbs and Spices",
+      "status":"Nope, you're good!",
+      "name":"Salt",
+      "note":"None"
+   },
+   {  
+      "category":"Prebiotic Foods",
+      "status":"Yes, sorry",
+      "name":"FOS – fructooligosaccharides",
+      "note":"None"
+   },
+   {  
+      "category":"Prebiotic Foods",
+      "status":"Yes, sorry",
+      "name":"Inulin",
+      "note":"None"
+   },
+   {  
+      "category":"Prebiotic Foods",
+      "status":"Yes, sorry",
+      "name":"Oligofructose",
+      "note":"None"
+   }
+]

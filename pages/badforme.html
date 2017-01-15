@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Is This Bad For Me</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="../css/badstyle.css">
+	</head>
+	<body>
+  
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+   	<p class="header">Is This Food Bad For Me?</p>
+
+	<div class = "container">
+	   	<div class="field" id="searchform">
+			<input type="text" id="searchterm" placeholder="Search for a food here and find out" />
+		</div>
+
+		<table class = "table table-bordered table-hover table-responsive" id = "hide">
+			<thead>
+				<tr>
+					<th class="col-xs-3">Name</th>
+					<th class="col-xs-3">Verdict</th>
+					<th class="col-xs-3">Category</th>	
+					<th class="col-xs-3">Note</th>
+				</tr>
+			</thead>
+			<tbody>
+				
+			</tbody>
+		</table>
+	</div>
+
+	<script>
+		$('#searchterm').keydown(function() {
+			if($('table').attr('id') == 'hide') {
+				document.getElementById('hide').setAttribute('id', 'show');
+			}
+			$.getJSON("..data/fodmap.json", function(fodmap) {
+				var search = $('#searchterm').val();
+				var regex = new RegExp(search, 'i');
+				var output;
+				if (search.length != "") { 
+					$.each(fodmap, function(key, val) {
+						if((val.category.search(regex) != -1) || (val.name.search(regex) != -1 )) { 
+							output += "<tr>";
+							output += "<td id='" + key + " '>" + val.name + "</td>";
+							if(val.status == "Yes, sorry") {
+								output += "<td class='bad' id='" + key + " '>" + val.status + "</td>";
+							}
+							else {
+								output += "<td class='good' id='" + key + " '>" + val.status + "</td>";
+							}						
+							output += "<td id='" + key + " '>" + val.category + "</td>";
+							output += "<td id='" + key + " '>" + val.note + "</td>";
+							output += "</tr>";
+						}
+					});
+					$('tbody').html(output);
+				}
+				else {
+					$('table').attr('id', 'hide');
+				}
+
+			});
+		})
+	</script>
+
+   	<footer>
+   		<h5>Made by Manuela Rios and John Zoshak</h5>
+   	</footer>
+
+	</body>
+</html>

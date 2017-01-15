@@ -1,0 +1,114 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+* {
+    margin:0;
+    padding:0;
+    font-family: 'Lato';
+}
+
+body {
+  background: url("../images/wallpaper.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-color: white;
+}
+
+h1, h5, .header {
+  font-family: 'Lato';
+}
+
+.header {
+  margin-top: 7%;
+  text-align: center;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+#searchform {
+  margin-top: 5%;
+}
+
+#hide {
+  table-layout: fixed;  
+  display: none;
+}
+
+#show {
+  table-layout: fixed;  
+}
+
+table td {
+  word-wrap:break-word;
+  background-color: white;
+  border-color: black;
+  border-style: solid;
+}
+
+th {
+  background-color: lightgrey;
+  font-size: 1.5em;
+}
+
+.bad {
+  background-color: #FFBABA;
+}
+
+.good {
+  background-color: #DFF2BF;
+}
+
+.field {
+  display:flex;
+  position:relative;
+  margin:5em auto;
+  width:70%;
+  flex-direction:row;
+  box-shadow:
+   1px 1px 0 grey,
+   2px 2px 0 grey,
+   3px 3px 0 grey,
+   4px 4px 0 grey,
+   5px 5px 0 grey,
+   6px 6px 0 grey,
+   7px 7px 0 grey
+  ;
+}
+
+.field>input[type=text],
+.field>button {
+  display:block;
+  font:1.2em 'Lato';
+}
+
+.field>input[type=text] {
+  flex:1;
+  padding:0.6em;
+  border:0.2em solid darkgrey;
+}
+
+.field>button {
+  padding:0.6em 0.8em;
+  background-color:darkgrey;
+  color:white;
+  border:none;
+}
+
+footer {
+  margin-top: 20%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.3);
+  position:relative;
+  left:0px;
+  bottom:0px;
+  width:100%;
+}
+
+footer h5 {
+  font-weight: bold;
+  font-size: 1.2em;
+  color: white;
+}

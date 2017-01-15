@@ -74,7 +74,7 @@
 
 		else {
 			document.getElementById('category').remove();
-			$('body').css('background' : '');
+			$('body').css('background' : 'none');
 			document.getElementById('note').remove();
 			document.getElementById('food').setAttribute('class', 'col-lg-4');
 			document.getElementById('verdict').setAttribute('class', 'col-lg-4');
@@ -92,8 +92,8 @@
 					if (search.length != "") { 
 						$.each(fodmap, function(key, val) {
 							if((val.status.search(regex) != -1) || (val.name.search(regex) != -1 )) { 
-								document.getElementById('food').style.fontSize = "200%";
-								document.getElementById('verdict').style.fontSize = "200%";
+								document.getElementById('food').style.fontSize = "170%";
+								document.getElementById('verdict').style.fontSize = "170%";
 								output += "<tr>";
 								output += "<td id='" + key + " '>" + val.name + "</td>";
 								if(val.status == "Yes, sorry") {
@@ -106,7 +106,7 @@
 							}
 						});
 						$('tbody').html(output);
-						document.getElementById('bod').style.fontSize = "175%";
+						document.getElementById('bod').style.fontSize = "150%";
 					}
 					else {
 						$('table').attr('id', 'hide');

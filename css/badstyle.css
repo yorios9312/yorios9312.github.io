@@ -15,6 +15,10 @@ body {
   background-color: white;
 }
 
+input {
+  font-size: 16px;
+}
+
 h1, h5, .header {
   font-family: 'Lato';
 }

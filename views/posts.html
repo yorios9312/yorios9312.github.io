@@ -1,0 +1,19 @@
+<div class="suggest_comment">
+  <a href="#/"><span class="glyphicon glyphicon-arrow-left"></span> Back</a>
+  <h2> <small>{{post.title}}</small></h2>
+
+  <div class="comment_array">
+    <div ng-repeat="comment in post.comments">
+      <h4>{{comment.body}}</h4>
+      <span class="glyphicon glyphicon-plus-sign" ng-click="upVote(comment)"></span> Upvotes: {{comment.upvote}}
+    </div>
+  </div>
+
+  <form class="form-inline" ng-submit="addComment()">
+    <h3>Submit Your Comment</h3>
+    <div class="form-group">
+      <input type="text" class="form-control" placeholder="Great comment there" ng-model="new_comment"></input>
+    </div>
+    <button type="submit" class="btn btn-primary">Comment</button>
+  </form>
+</div>

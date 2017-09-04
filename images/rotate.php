@@ -6,7 +6,7 @@ Latest version always at:
 http://photomatt.net/scripts/randomimage
 */// Make this the relative path to the images, like "../img" or "random/images/".
 // If the images are in the same directory, leave it blank.
-	$folder = 'bgimages/';
+	$folder = '';
 
 	// Space separated list of extensions, you probably won't have to change this.
 	$exts = 'jpg jpeg png gif';
@@ -16,14 +16,18 @@ http://photomatt.net/scripts/randomimage
 
 	$handle = opendir($folder);
 	$exts = explode(' ', $exts);
-	while (false !== ($file = readdir($handle))) {
-	foreach($exts as $ext) { // for each extension check the extension
-	if (preg_match('/\.'.$ext.'$/i', $file, $test)) { // faster than ereg, case insensitive
-	$files[] = $file; // it's good
-	++$i;
+		while (false !== ($file = readdir($handle))) {
+			foreach($exts as $ext) { // for each extension check the extension
+			if (preg_match('/\.'.$ext.'$/i', $file, $test)) { // faster than ereg, case insensitive
+				$files[] = $file; // it's good
+			++$i;
+			}
+		}
 	}
-	}
-	}
+
+	print "hi doe";
+	print $files;
+	
 	closedir($handle); // We're not using it anymore
 	mt_srand((double)microtime()*1000000); // seed for PHP < 4.2
 	$rand = mt_rand(0, $i); // $i was incremented as we went along

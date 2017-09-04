@@ -24,6 +24,7 @@
   <!-- Bootstrap styles and jquery plugin -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+  <script src="js/modernizr.custom.js"></script>
 
   <!-- Awesome icons from FontAwesome -->
   <script src="https://use.fontawesome.com/af5c536ac3.js"></script>
@@ -34,6 +35,8 @@
     $('#background').css({'background-image': 'url(images/' + images[Math.floor(Math.random() * images.length)] + ')'});
    });
   </script>
+
+  <script src="js/toucheffects.js"></script>
 
   <!-- ****** faviconit.com favicons ****** -->
   <link rel="shortcut icon" href="assets/favicon.ico">
@@ -84,6 +87,43 @@
         </div>
       </div>
 
+      <ul class="grid cs-style-4">
+        <li>
+          <figure>
+            <div><img src="images/eatery.jpg" alt="eatery"></div>
+            <figcaption>
+              <h3>Eatery - Designer</h3>
+              <br>
+              <span>Used Sketch, InVision, and occasionally some Keynote to enhance the Cornell Dining experience. Available on the App Store.</span>
+              <a href="https://itunes.apple.com/us/app/eatery-cornell-dining-made/id1089672962?mt=8">Take a look</a>
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <div><img src="images/tempo.jpg" alt="tempo"></div>
+            <figcaption>
+              <h3>Tempo - Developer</h3>
+              <br>
+              <span>Built the profile feature of a music discovery app. Used Swift and Objective-C. Available on the App Store.</span>
+              <a href="https://itunes.apple.com/us/app/tempo-discover-new-sounds/id1158693533?mt=8">Take a look</a>
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+          <figure>
+            <div><img src="images/fedregs.jpg" alt="fiscalnote"></div>
+            <figcaption>
+              <h3>FiscalNote Federal Regulatory Product - PM</h3>
+              <br>
+              <span>Worked with four teams to launch a revamp of FN's federal regulatory product. Increased usage of the federal regulatory content set by 300%.</span>
+              <a href="https://www.fiscalnote.com">Take a look</a>
+            </figcaption>
+          </figure>
+        </li>
+        <li>
+      </ul>
+
       <div class="about">
           <div class="contactdiv">
             <div class="col-lg-3">
@@ -116,6 +156,9 @@
 
       </div>
     </div> 
+
+  </div>  
+
 
   </div>
 

@@ -22,11 +22,18 @@
   <link href='https://fonts.googleapis.com/css?family=Hind+Vadodara:400,600,500,700' rel='stylesheet' type='text/css'>
 
   <!-- Bootstrap styles and jquery plugin -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 
   <!-- Awesome icons from FontAwesome -->
   <script src="https://use.fontawesome.com/af5c536ac3.js"></script>
+
+  <script type="text/javascript">
+   $(function() {
+    var images = ['blurcover.jpg', 'oculus.jpg', 'couch.jpg'];
+    $('#background').css({'background-image': 'url(images/' + images[Math.floor(Math.random() * images.length)] + ')'});
+   });
+  </script>
 
   <!-- ****** faviconit.com favicons ****** -->
   <link rel="shortcut icon" href="assets/favicon.ico">
@@ -53,55 +60,63 @@
 
 </head>
 
-<?php
-$background = array("bgimages/blurcover.jpg","bgimages/couch.jpg","bgimages/oculus.jpg");
-$rand = array_rand($background);
-?>
 
-<body background="<?php echo $background[$rand]; ?>">
+<body>
   <div class="navbar">
     <div class="col-md-12" id="name">
       <a>Manuela RiOS</a>
     </div>
   </div>
 
-  <h2>Product Manager at FiscalNote</h2>
-  <h3>Previously @ Cornell University - Human Computer Interaction</h3>
- 
-  <div class="skills">
-    <!-- <h1 id="sectionHeading"></h1> -->
-    <div id="about">
-      <br>
-      <h2 class="animated fadeInUp" id="passion"><strong>I have a passion for hipster menswear and beautifully designed experiences.</strong></h2>
 
-        <div class="contactdiv">
-          <div class="col-lg-3">
-            <h4><strong>Email Me</strong></h4>
-            <p class="contactIcons"><a id="envelope" href="mailto:manuela.rios@fiscalnote.com" <i class="hovicon effect-1 sub-a"> <b class="fa fa-envelope fa-1x"></b></a><p>
-            <p class="contactInfo">manuela.rios@fiscalnote.com</p>
-          </div>
+  <div id="background">
 
-          <div class="col-lg-3">
-            <h4><strong>Connect with Me</strong></h4>
-            <p class="contactIcons"><a id="linkedin" href="https://www.linkedin.com/pub/manuela-rios/58/464/6a" target="_blank" <i class="hovicon effect-1 sub-a"> <b class="fa fa-linkedin fa-1x"></b></a></p>
-            <p class="contactInfo">Because Relationships Matter</p>
-          </div>
+    <h2>Product Manager at FiscalNote</h2>
+    <h3>Previously @ Cornell University - Human Computer Interaction</h3>
 
-          <div class="col-lg-3">
-            <h4><strong>Follow Me</strong></h4>
-            <p class="contactIcons"><a id="number" href="https://medium.com/@manuelaR" target="_blank" <i class="hovicon effect-1 sub-a"><b class="fa fa-medium fa-1x"></b></a><p>
-            <p class="contactInfo">@manuelaR</p>
-          </div>
-
-          <div class="col-lg-3">
-            <h4><strong>Tweet Me</strong></h4>
-            <p class="contactIcons"><a id="tweet" href="https://twitter.com/yorios9312" target="_blank" <i class="hovicon effect-1 sub-a"><b class="fa fa-twitter fa-1x" ></b></a><p>
-            <p class="contactInfo">@yorios9312</p>
-          </div>
+   
+    <div class="skills">
+      <!-- <h1 id="sectionHeading"></h1> -->
+      <div id="divider">
+        <div class="about">
+          <br>
+          <h2 class="animated fadeInUp" id="passion"><strong>I have a passion for hipster menswear and beautifully designed experiences.</strong></h2>
+        </div>
       </div>
-      <br>
-      <br>
-    </div>
+
+      <div class="about">
+          <div class="contactdiv">
+            <div class="col-lg-3">
+              <h4><strong>Email Me</strong></h4>
+              <p class="contactIcons"><a id="envelope" href="mailto:manuela.rios@fiscalnote.com" <i class="hovicon effect-1 sub-a"> <b class="fa fa-envelope fa-1x"></b></a><p>
+              <p class="contactInfo">manuela.rios@fiscalnote.com</p>
+            </div>
+
+            <div class="col-lg-3">
+              <h4><strong>Connect with Me</strong></h4>
+              <p class="contactIcons"><a id="linkedin" href="https://www.linkedin.com/pub/manuela-rios/58/464/6a" target="_blank" <i class="hovicon effect-1 sub-a"> <b class="fa fa-linkedin fa-1x"></b></a></p>
+              <p class="contactInfo">Because Relationships Matter</p>
+            </div>
+
+            <div class="col-lg-3">
+              <h4><strong>Follow Me</strong></h4>
+              <p class="contactIcons"><a id="number" href="https://medium.com/@manuelaR" target="_blank" <i class="hovicon effect-1 sub-a"><b class="fa fa-medium fa-1x"></b></a><p>
+              <p class="contactInfo">@manuelaR</p>
+            </div>
+
+            <div class="col-lg-3">
+              <h4><strong>Tweet Me</strong></h4>
+              <p class="contactIcons"><a id="tweet" href="https://twitter.com/yorios9312" target="_blank" <i class="hovicon effect-1 sub-a"><b class="fa fa-twitter fa-1x" ></b></a><p>
+              <p class="contactInfo">@yorios9312</p>
+            </div>
+        </div>
+
+        <br>
+        <br>
+
+      </div>
+    </div> 
+
   </div>
 
   <footer>

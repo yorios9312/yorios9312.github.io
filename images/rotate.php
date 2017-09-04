@@ -20,6 +20,7 @@ http://photomatt.net/scripts/randomimage
 	foreach($exts as $ext) { // for each extension check the extension
 	if (preg_match('/\.'.$ext.'$/i', $file, $test)) { // faster than ereg, case insensitive
 	$files[] = $file; // it's good
+	print $file;
 	++$i;
 	}
 	}

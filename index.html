@@ -53,11 +53,12 @@
 
 </head>
 
+<?php
+$background = array("bgimages/blurcover.jpg","bgimages/couch.jpg","bgimages/oculus.jpg");
+$rand = array_rand($background);
+?>
 
-<img src="/assets/rotate.php" alt="A Random Image" />
-<img src="/bgimages/couch.jpg" alt="A Random Image" />
-
-<body>
+<body background="<?php echo $background[$rand]; ?>">
   <div class="navbar">
     <div class="col-md-12" id="name">
       <a>Manuela RiOS</a>

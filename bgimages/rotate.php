@@ -1,4 +1,4 @@
 <?php
-$background = array("images/bg/house.jpg","images/bg/ocean.jpg","images/bg/car.jpg");
+$background = array("bgimages/blurcover.jpg","bgimages/couch.jpg","bgimages/oculus.jpg");
 $rand = array_rand($background);
 ?>

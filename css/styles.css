@@ -111,7 +111,7 @@ h3 {
 #passion {
   padding-top: 5%;
 /*  color: #333;*/
-  color: white;
+  color: black;
   font-size: 2.75em;
 }
 
@@ -165,11 +165,33 @@ h4 {
   margin-right: 15%;
 }
 
-#divider {
-  background: url(../images/footah.png);
+#divider1 {
+  background: white;
   margin-top: 10%;
   padding-bottom: 5%;
-  margin-bottom: 5%;
+}
+
+.divider2 {
+  background: url(../images/footah.png);
+  padding-bottom: 2%;
+}
+
+
+#headertext {
+  text-align: left;
+  font-size: 1.5em;
+}
+
+#centerrr {
+  text-align: center;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+#desc {
+  font-weight: 400;
+  line-height: 25px;
+  color: black;
 }
 
 #me {
@@ -402,7 +424,7 @@ footer {
   max-width: 100%;
   margin: 0 auto;
   list-style: none;
-  background-color: #d4d8d8;
+  background-color: white;
 /*  text-align: center;*/
 }
 

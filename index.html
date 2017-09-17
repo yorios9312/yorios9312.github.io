@@ -46,6 +46,14 @@
   <meta name="msapplication-config" content="assets/browserconfig.xml">
   <!-- ****** faviconit.com favicons ****** -->
 
+  <script type="text/javascript">
+   $(function() {
+    var images = ['blurcover.jpg', 'oculus.jpg', 'LA.jpg', 'conference.jpg'];
+    $('#background').css({'background-image': 'url(images/' + images[Math.floor(Math.random() * images.length)] + ')'});
+   });
+  </script>
+
+
 </head>
 
 
@@ -174,15 +182,6 @@
 
   <!-- Awesome icons from FontAwesome -->
   <script async src="https://use.fontawesome.com/af5c536ac3.js"></script>
-
-  <script type="text/javascript">
-   $(function() {
-    var images = ['blurcover.jpg', 'oculus.jpg', 'LA.jpg', 'conference.jpg'];
-    $('#background').css({'background-image': 'url(images/' + images[Math.floor(Math.random() * images.length)] + ')'});
-   });
-  </script>
-
-
 
 </body>
 

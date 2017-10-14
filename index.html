@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width,initial-scale=1.0" name="viewport">
 
-  <title>Manuela Rios</title>
+  <title>Manuela Rios - Product Manager</title>
 
   <!-- Bootstrap styles and jquery plugin -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript"></script>
@@ -19,10 +19,14 @@
   <link href="css/styles.css" rel="stylesheet">
   <link href="css/animate1.css" rel="stylesheet">
 
-  <!-- Fonts -->
-  <!-- <link href='http://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'> -->
-  <!-- <link href='https://fonts.googleapis.com/css?family=Catamaran:400,500,700' rel='stylesheet' type='text/css'> -->
-  <!-- <link href='https://fonts.googleapis.com/css?family=Sarala:400,700' rel='stylesheet' type='text/css'> -->
+
+  <script type="text/javascript">
+   $(function() {
+    var images = ['blurcover.jpg', 'oculus.jpg', 'LA.jpg', 'conference.jpg'];
+    $('#background').css({'background-image': 'url(images/' + images[Math.floor(Math.random() * images.length)] + ')'});
+   });
+  </script>
+
   <link href='https://fonts.googleapis.com/css?family=Hind+Vadodara:400,600,500,700' rel='stylesheet' type='text/css'>
 
   <!-- ****** faviconit.com favicons ****** -->
@@ -48,13 +52,6 @@
   <meta name="msapplication-config" content="assets/browserconfig.xml">
   <!-- ****** faviconit.com favicons ****** -->
 
-  <script type="text/javascript">
-   $(function() {
-    var images = ['blurcover.jpg', 'oculus.jpg', 'LA.jpg', 'conference.jpg'];
-    $('#background').css({'background-image': 'url(images/' + images[Math.floor(Math.random() * images.length)] + ')'});
-   });
-  </script>
-
 
 </head>
 
@@ -72,15 +69,17 @@
     <h2>Product Manager at FiscalNote</h2>
     <h3>Previously @ Cornell University - Human Computer Interaction</h3>
 
-   
+    <div class="arrow"></div>
+
     <div class="skills">
       <!-- <h1 id="sectionHeading"></h1> -->
       <div id="divider1">
         <div class="about">
           <br>
           <h2 class="animated fadeInUp" id="passion"><strong>I have a passion for hipster menswear and beautifully designed experiences.</strong></h2>
+          <br>
           <div id="centerrr">
-            <h3 class="animated fadeInUp" id="desc">When I'm not admiring the newest shoes or checking the value of bitcoin, I can be found working on side projects. At Cornell, I was a part of the founding class of "CUAppDev," and the two apps we made can be found below. I also included a sneak peak of what I've been working on at FiscalNote! If you want to bond over UX pet peeves or talk about how Publix is the best grocery store out there, you can reach me through any of the mediums listed below. <strong>Cheers!</strong></h3>
+            <h3 class="animated fadeInUp" id="desc">When I'm not scouting out rare shoe collections, I can be found solving difficult government-related problems at FiscalNote (who would've guessed... let's say AP Gov was <i>not</i> my best). Back at Cornell, I was a member of the founding class of "CUAppDev," and the two apps we made can be found below. I also included a sneak peak of what I've been working on at FiscalNote. If you want to bond over UX pet peeves or anything else, you can reach me through any of the mediums listed below. <strong>Cheers!</strong></h3>
           </div>
         </div>
       </div>
@@ -94,7 +93,7 @@
       <ul class="grid cs-style-4">
         <li>
           <figure>
-            <div><img src="images/eatery.jpg" alt="eatery"></div>
+            <div><img src="images/eatery.png" alt="eatery"></div>
             <figcaption>
               <h3>Eatery - Designer</h3>
               <br>
@@ -105,7 +104,7 @@
         </li>
         <li>
           <figure>
-            <div><img src="images/tempo.jpg" alt="tempo"></div>
+            <div><img src="images/tempo.png" alt="tempo"></div>
             <figcaption>
               <h3>Tempo - Developer</h3>
               <br>
@@ -116,12 +115,12 @@
         </li>
         <li>
           <figure>
-            <div><img src="images/fedregs.jpg" alt="fiscalnote"></div>
+            <div><img src="images/fedregs.png" alt="fiscalnote"></div>
             <figcaption>
               <h3>FiscalNote Federal Regulatory Product - PM</h3>
               <br>
               <span>Worked with four teams to launch a revamp of FN's federal regulatory product. Increased usage of the federal regulatory content set by 300%.</span>
-              <a href="https://www.fiscalnote.com" target="_blank">Take a look</a>
+              <a href="https://fiscalnote.com/federal-regulations/" target="_blank">Take a look</a>
             </figcaption>
           </figure>
         </li>
@@ -146,7 +145,7 @@
             <div class="col-lg-3">
               <h4><strong>Connect with Me</strong></h4>
               <p class="contactIcons"><a id="linkedin" href="https://www.linkedin.com/in/manuela-rios/" target="_blank" <i class="hovicon effect-1 sub-a"> <b class="fa fa-linkedin fa-1x"></b></a></p>
-              <p class="contactInfo">Because Relationships Matter</p>
+              <p class="contactInfo">/in/manuela-rios/</p>
             </div>
 
             <div class="col-lg-3">
@@ -170,18 +169,27 @@
 
   </div>  
 
-
-  </div>
-
   <footer>
-    <p>&copy; Manuela Rios 2015</p>
+    <p>"Of course I consider you a millennial, you have Snap glasses and invest in three different cryptocurrencies"</p>
+    <div id="returntop">
+      <a href="javascript:"><i class="fa fa-chevron-up" aria-hidden="true"></i><br>TAKE ME BACK TO TOP</a>
+    </div>
   </footer>
 
   
   <script async src="js/modernizr.custom.js"></script>
+  <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
 
   <!-- Awesome icons from FontAwesome -->
   <script async src="https://use.fontawesome.com/af5c536ac3.js"></script>
+  <script type="text/javascript">
+      // ===== Scroll to Top ==== 
+    $('#returntop').click(function() {      // When arrow is clicked
+        $('body,html').animate({
+            scrollTop : 0                       // Scroll to top of body
+        }, 500);
+    });
+  </script>
 
 </body>
 

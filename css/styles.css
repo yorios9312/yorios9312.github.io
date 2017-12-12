@@ -44,8 +44,8 @@ h4{text-align:center;}
 #tweet:hover{color:#00aced;}
 #returntop{font-family:'Hind Vadodara', sans-serif;font-weight:600;letter-spacing: 1px; font-size: 80%; padding-top: 1%; padding-bottom: 1%;}
 #returntop a {text-decoration:none;color:#7f8c8d;}
-#returntop:hover .fa-chevron-up{-webkit-animation-name:hvr-bob-float,hvr-bob;animation-name:hvr-bob-float,hvr-bob;-webkit-animation-duration:.3s,1.5s;animation-duration:.3s,1.5s;-webkit-animation-delay:0s,.3s;animation-delay:0s,.3s;-webkit-animation-timing-function:ease-out,ease-in-out;animation-timing-function:ease-out,ease-in-out;-webkit-animation-iteration-count:1,infinite;animation-iteration-count:1,infinite;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards;-webkit-animation-direction:normal,alternate;animation-direction:normal,alternate}
-#returntop:hover a{color:#ecf0f1;}
+#returntop a:hover .fa-chevron-up{-webkit-animation-name:hvr-bob-float,hvr-bob;animation-name:hvr-bob-float,hvr-bob;-webkit-animation-duration:.3s,1.5s;animation-duration:.3s,1.5s;-webkit-animation-delay:0s,.3s;animation-delay:0s,.3s;-webkit-animation-timing-function:ease-out,ease-in-out;animation-timing-function:ease-out,ease-in-out;-webkit-animation-iteration-count:1,infinite;animation-iteration-count:1,infinite;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards;-webkit-animation-direction:normal,alternate;animation-direction:normal,alternate}
+#returntop a:hover {color:#ecf0f1;}
 .arrow,.arrow:before{position:absolute;left:50%;}
 .arrow{width:20px;height:20px;top:60%;margin:-20px 0 0 -20px;-webkit-transform:rotate(45deg);border-left:none;border-top:none;border-right:2px #fff solid;border-bottom:2px #fff solid;}
 .arrow:before{content:"";width:20px;height:20px;top:50%;margin:-10px 0 0 -10px;border-left:none;border-top:none;border-right:1px #fff solid;border-bottom:1px #fff solid;animation-duration:2s;animation-iteration-count:infinite;animation-name:arrow}@keyframes arrow{0%{opacity:1}100%{opacity:0;transform:translate(-10px,-10px)}}

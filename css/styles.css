@@ -1,4 +1,8 @@
 body{-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;color:white;font-family:'Hind Vadodara', sans-serif;}
+@font-face {
+  font-family: primetime;
+  src: url(../fonts/primetime.ttf); 
+}
 #background{padding-top:5%;background:no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;color:white;}
 .port{background:url(../images/portfolio.jpg) no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}
 .contact{background:url(../images/oculus.jpg) no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}
@@ -13,6 +17,7 @@ body{-webkit-background-size:cover;-moz-background-size:cover;-o-background-size
 .portfolio a:hover{color:#7f8c8d;}
 .portfolio h3{text-shadow:1px 1px 0 #000;}
 h2{padding-top:10%;text-align:center;font-size:2em;font-weight:400;}
+#yayoiheader{font-family: primetime;}
 h3{text-align:center;font-size:1em;}
 .skills h1{text-align:center;font-size:1em;}
 #passion{padding-top:5%;color:black;font-size:2.75em;}

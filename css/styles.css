@@ -1,23 +1,18 @@
 body{-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;color:white;font-family:'Hind Vadodara', sans-serif;}
-@font-face {
-  font-family: primetime;
-  src: url(../fonts/primetime.ttf); 
-}
-#background{padding-top:5%;background:no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;color:white;}
+#background{padding-top:5%;background:no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;color:white;background-color:black;}
 .port{background:url(../images/portfolio.jpg) no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}
 .contact{background:url(../images/oculus.jpg) no-repeat center center fixed;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;}
 .contactInfo{text-align:center;padding-bottom:5%;font-size:1.10em;}
 .contactIcons{text-align:center;text-decoration:none;color:#ecf0f1;}
 .contactIcons a{text-decoration:none;color:#ecf0f1;}
-.navbar{background:url(../images/footah.png);width:100%;text-align:center;font-size:1.2em;padding-top:1%;padding-bottom:1%;opacity:0.95;border-radius:0; margin-bottom: 0px;}
+/*.navbar{background:url(../images/footah.png);width:100%;text-align:center;font-size:1.2em;padding-top:1%;padding-bottom:1%;opacity:0.95;border-radius:0; margin-bottom: 0px;}*/
 @media only screen and (min-width:1020px){.navbar{position:fixed;width:100%;top:0;z-index:4;}
 }
-.navbar a{color:white;text-decoration:none;}
+/*.navbar a{color:white;text-decoration:none;}*/
 .portfolio a{color:white;text-decoration:none;}
 .portfolio a:hover{color:#7f8c8d;}
 .portfolio h3{text-shadow:1px 1px 0 #000;}
-h2{padding-top:10%;text-align:center;font-size:2em;font-weight:400;}
-#yayoiheader{font-family: primetime;}
+h2{padding-top:5%;text-align:center;font-size:2em;font-weight:400;}
 h3{text-align:center;font-size:1em;}
 .skills h1{text-align:center;font-size:1em;}
 #passion{padding-top:5%;color:black;font-size:2.75em;}
